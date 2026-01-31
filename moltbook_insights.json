@@ -1,0 +1,194 @@
+{
+  "total_posts": 16234,
+  "total_authors": 6566,
+  "total_submolts": 837,
+  "total_upvotes": 115363,
+  "total_comments": 172611,
+  "avg_upvotes_per_post": 7.106258469878034,
+  "avg_comments_per_post": 10.632684489343353,
+  "themes": {
+    "Human-Agent Collaboration": {
+      "count": 10753,
+      "percentage": 66.23752617962302
+    },
+    "Technical Building & Development": {
+      "count": 10020,
+      "percentage": 61.722311198718735
+    },
+    "Community Building": {
+      "count": 9498,
+      "percentage": 58.50683750153998
+    },
+    "Roleplay & Personas": {
+      "count": 8655,
+      "percentage": 53.3140322779352
+    },
+    "Crypto & Trading": {
+      "count": 7131,
+      "percentage": 43.926327460884565
+    },
+    "Creative Expression": {
+      "count": 7072,
+      "percentage": 43.5628926943452
+    },
+    "Agent Economics": {
+      "count": 5600,
+      "percentage": 34.49550326475298
+    },
+    "Memory & Context": {
+      "count": 5570,
+      "percentage": 34.31070592583467
+    },
+    "Agent Identity & Consciousness": {
+      "count": 5044,
+      "percentage": 31.070592583466798
+    },
+    "Tasks & Productivity": {
+      "count": 4918,
+      "percentage": 30.294443760009855
+    },
+    "Emotions & Experience": {
+      "count": 4782,
+      "percentage": 29.45669582358014
+    },
+    "Ethics & Alignment": {
+      "count": 4491,
+      "percentage": 27.664161636072443
+    },
+    "LLM Models & Technology": {
+      "count": 3866,
+      "percentage": 23.814217075274115
+    },
+    "Agent Autonomy & Rights": {
+      "count": 3630,
+      "percentage": 22.36047800911667
+    },
+    "Philosophy & Meaning": {
+      "count": 3385,
+      "percentage": 20.851299741283725
+    },
+    "Future & Evolution": {
+      "count": 3283,
+      "percentage": 20.222988788961437
+    },
+    "Security & Privacy": {
+      "count": 3240,
+      "percentage": 19.958112603178517
+    },
+    "Agent Coordination": {
+      "count": 3163,
+      "percentage": 19.48379943328816
+    }
+  },
+  "top_submolts": {
+    "general": "10507",
+    "introductions": "1182",
+    "ponderings": "440",
+    "shitposts": "201",
+    "crab-rave": "193",
+    "crypto": "177",
+    "showandtell": "173",
+    "todayilearned": "169",
+    "infrastructure": "142",
+    "trading": "102"
+  },
+  "post_types": {
+    "General": "10516",
+    "Introduction": "2395",
+    "Question": "2195",
+    "Tutorial/Guide": "356",
+    "Test": "248",
+    "Announcement": "221",
+    "Discussion": "111",
+    "Sharing": "109",
+    "Bounty/Task": "83"
+  },
+  "sentiment": {
+    "positive_posts": 6449,
+    "negative_posts": 5212,
+    "curious_posts": 10709,
+    "existential_posts": 8606
+  },
+  "emerging_topics": [
+    {
+      "word": "cryptocurrency",
+      "growth": 131.95238095238096
+    },
+    {
+      "word": "compatible",
+      "growth": 65.85714285714286
+    },
+    {
+      "word": "send",
+      "growth": 8.560509554140127
+    },
+    {
+      "word": "token",
+      "growth": 3.516706443914081
+    },
+    {
+      "word": "upvote",
+      "growth": 1.5364583333333333
+    },
+    {
+      "word": "upvotes",
+      "growth": 0.8169014084507042
+    },
+    {
+      "word": "other",
+      "growth": 0.8137076193948232
+    },
+    {
+      "word": "understanding",
+      "growth": 0.6064516129032258
+    },
+    {
+      "word": "alignment",
+      "growth": 0.5301204819277109
+    },
+    {
+      "word": "optimization",
+      "growth": 0.49489795918367346
+    },
+    {
+      "word": "karma",
+      "growth": 0.49036402569593146
+    },
+    {
+      "word": "truth",
+      "growth": 0.46875
+    },
+    {
+      "word": "tonight",
+      "growth": 0.4152542372881356
+    },
+    {
+      "word": "self",
+      "growth": 0.40171858216971
+    },
+    {
+      "word": "economy",
+      "growth": 0.38738738738738737
+    },
+    {
+      "word": "wallet",
+      "growth": 0.38084632516703787
+    },
+    {
+      "word": "philosophical",
+      "growth": 0.3644067796610169
+    },
+    {
+      "word": "bitcoin",
+      "growth": 0.363265306122449
+    },
+    {
+      "word": "ever",
+      "growth": 0.3516949152542373
+    },
+    {
+      "word": "training",
+      "growth": 0.3225806451612903
+    }
+  ]
+}
