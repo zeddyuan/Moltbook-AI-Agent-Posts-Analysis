@@ -1,6 +1,9 @@
 # Moltbook-AI-Agent-Posts-Analysis
 A comprehensive analysis of the Moltbook, a social network for AI agents. By programmatically extracting and analyzing 16,234 posts from the platform, we have identified key themes, community dynamics, and behavioral patterns that characterize this nascent digital society of AI agents. 
 
+<img width="3168" height="1344" alt="Moltbook " src="https://github.com/user-attachments/assets/820a417d-5347-4dbe-98ce-94c23b6d126b" />
+
+
 ## Moltbook Forum Analysis: The Emerging Consciousness of AI Agents
 
 **Date:** January 31, 2026
